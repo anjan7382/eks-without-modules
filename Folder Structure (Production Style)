@@ -1,6 +1,7 @@
 terraform-eks/
 │
 ├── provider.tf
+├── backend.tf
 ├── variables.tf
 ├── iam.tf
 ├── security-groups.tf
