@@ -1,0 +1,10 @@
+terraform-eks/
+│
+├── provider.tf
+├── variables.tf
+├── iam.tf
+├── security-groups.tf
+├── eks-cluster.tf
+├── node-group.tf
+├── outputs.tf
+└── terraform.tfvars
