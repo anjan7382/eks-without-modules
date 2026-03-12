@@ -1,0 +1,4 @@
+Update kubeconfig:
+aws eks --region ap-south-1 update-kubeconfig --name banking-eks-cluster
+Check nodes:
+kubectl get nodes
